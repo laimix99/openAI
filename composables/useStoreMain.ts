@@ -9,7 +9,7 @@ export const useStoreMain = defineStore('storeId', () => {
     chat: useStorage('sw:chat', [
 
     ]),
-    apiKey: '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',
+    apiKey: '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',
   }) as any;
 
   const configuration = new Configuration({
